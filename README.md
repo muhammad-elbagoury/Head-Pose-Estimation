@@ -13,3 +13,8 @@ Process to detect the head pose: (Using MediaPipe & OpenCV)\
 3- Reading the mat files for every image and extracting Pose parameters (Yaw, Pitch and Roll) then loading them to the DataFrame.\
 4- Training a MultiOutput Support Vector Regressor (SVR) model.\
 5- Testing the model on a live camera (Photos & Videos).\
+\
+\
+\
+Resources:\
+https://indatalabs.com/blog/head-pose-estimation-with-cv#:~:text=Simply%20put%2C%20head%20pose%20estimation,rotation%20in%20a%203D%20environment.\
