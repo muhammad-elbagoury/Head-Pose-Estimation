@@ -15,6 +15,6 @@ Process to detect the head pose: (Using MediaPipe & OpenCV)\
 5- Testing the model on a live camera (Photos & Videos).\
 \
 \
-\
 Resources:\
 https://indatalabs.com/blog/head-pose-estimation-with-cv#:~:text=Simply%20put%2C%20head%20pose%20estimation,rotation%20in%20a%203D%20environment.\
+https://www.researchgate.net/figure/Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three_fig1_279291928\
