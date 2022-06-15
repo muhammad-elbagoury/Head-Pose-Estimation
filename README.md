@@ -3,12 +3,8 @@
 Simply, head pose estimation means detecting the position of a human head in the image. Particularly, it means detecting the head’s Euler angles – yaw, pitch and roll. They define the object’s rotation in a 3D environment.\
 "http://personal.maths.surrey.ac.uk/T.Bridges/SLOSH/3-2-1-Eulerangles.pdf"\
 
-<table>
-  <tr>
-    <td><img src=![Yaw-Pitch-Roll](https://user-images.githubusercontent.com/31386584/173800393-a53aecb3-8bc5-4fde-b8e9-638f19dc7b54.png) width=370 height=300></td>
-    <td><img src=![Output(GIF)](https://user-images.githubusercontent.com/31386584/173801669-4e6c0525-da70-4139-a69b-08886990a234.gif) width=370 height=300></td>
-  </tr>
- </table>
+![Yaw-Pitch-Roll](https://user-images.githubusercontent.com/31386584/173806966-cd5eb5bc-3ce1-4b33-840b-34cb9edf6518.png) ![Output(GIF)](https://user-images.githubusercontent.com/31386584/173806991-ae94ccdc-0c3a-4fce-a78c-239259a9177f.gif)
+
 
 Process to detect the head pose: (Using MediaPipe & OpenCV)\
 1- Download the data "http://www.cbsr.ia.ac.cn/users/xiangyuzhu/projects/3DDFA/Database/AFLW2000-3D.zip".\
