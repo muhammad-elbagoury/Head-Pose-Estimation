@@ -4,7 +4,7 @@ Simply, head pose estimation means detecting the position of a human head in the
 "http://personal.maths.surrey.ac.uk/T.Bridges/SLOSH/3-2-1-Eulerangles.pdf"\
 
 
-![Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three](https://user-images.githubusercontent.com/31386584/173678706-5d1c1908-80ae-491d-950d-3e946ab44900.png)
+![Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three](https://user-images.githubusercontent.com/31386584/173678706-5d1c1908-80ae-491d-950d-3e946ab44900.png) ![Output (GIF)](https://user-images.githubusercontent.com/31386584/173799091-424b776b-cb53-45ab-b0c6-d39cdfddc55a.gif)
 
 
 Process to detect the head pose: (Using MediaPipe & OpenCV)\
