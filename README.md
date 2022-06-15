@@ -16,5 +16,7 @@ Process to detect the head pose: (Using MediaPipe & OpenCV)\
 \
 \
 Resources:\
-https://indatalabs.com/blog/head-pose-estimation-with-cv#:~:text=Simply%20put%2C%20head%20pose%20estimation,rotation%20in%20a%203D%20environment.\
-https://www.researchgate.net/figure/Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three_fig1_279291928\
+1- https://indatalabs.com/blog/head-pose-estimation-with-cv#:~:text=Simply%20put%2C%20head%20pose%20estimation,rotation%20in%20a%203D%20environment.\
+2- https://www.researchgate.net/figure/Orientation-of-the-head-in-terms-of-pitch-roll-and-yaw-movements-describing-the-three_fig1_279291928\
+3- https://grauonline.de/wordpress/?page_id=3432\
+4- https://sefiks.com/2022/01/14/deep-face-detection-with-mediapipe/
